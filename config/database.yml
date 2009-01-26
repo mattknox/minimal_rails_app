@@ -1,0 +1,5 @@
+development:
+  adapter: mysql
+  database: mitblog_development
+  username: root
+  password:
