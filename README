@@ -1,0 +1,3 @@
+This is approximately the smallest set of files that can be served as a rails app.
+It's intended to show how little of rails needs to be there to do useful work, and
+to let people explore a smaller-footprint app as they learn rails.
